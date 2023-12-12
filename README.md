@@ -7,11 +7,11 @@ O projeto é um e-commerce de roupas desenvolvido no ambiente .net. Ele oferece 
 
 ## Capturas de Tela
 
-![Tela Inicial](https://github.com/amagnom/Ecommerce/blob/main/%5Bscreenshots/tela_inicial.png%5D(https:/github.com/amagnom/Ecommerce/blob/main/screenshots/tela_inicial.PNG)
+![Tela Inicial](https://github.com/amagnom/Ecommerce/blob/main/screenshots/tela_inicial.PNG)
 
-![Produtos](screenshots/produtos.png)
+![Produtos](https://github.com/amagnom/Ecommerce/blob/main/screenshots/produtos.PNG)
 
-![Produtos Detalhes](screenshots/produtos_detalhes_.png)
+![Produtos Detalhes](https://github.com/amagnom/Ecommerce/blob/main/screenshots/produtos_detalhes.PNG)
 
 
 ## Funcionalidades Principais
