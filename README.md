@@ -1,13 +1,13 @@
 # Ecommerce WebStore
 
 
-## DescriÁ„o
+## Descri√ß√£o
 
-O projeto È um e-commerce de roupas desenvolvido no ambiente .net. Ele oferece uma plataforma para os usu·rios navegarem pelos produtos, adicionarem itens ao carrinho, realizarem pedidos e muito mais.
+O projeto √© um e-commerce de roupas desenvolvido no ambiente .net. Ele oferece uma plataforma para os usu√°rios navegarem pelos produtos, adicionarem itens ao carrinho, realizarem pedidos e muito mais.
 
 ## Capturas de Tela
 
-![Tela Inicial](screenshots/tela_inicial.png)
+![Tela Inicial]([screenshots/tela_inicial.png](https://github.com/amagnom/Ecommerce/blob/main/screenshots/tela_inicial.PNG))
 
 ![Produtos](screenshots/produtos.png)
 
@@ -16,9 +16,9 @@ O projeto È um e-commerce de roupas desenvolvido no ambiente .net. Ele oferece u
 
 ## Funcionalidades Principais
 
-- [x] NavegaÁ„o de produtos por categorias
-- [x] AdiÁ„o de produtos ao carrinho de compras
-- [x] Sistema de autenticaÁ„o de usu·rios
+- [x] Navega√ß√£o de produtos por categorias
+- [x] Adi√ß√£o de produtos ao carrinho de compras
+- [x] Sistema de autentica√ß√£o de usu√°rios
 
 ## Tecnologias Utilizadas
 
@@ -29,15 +29,15 @@ O projeto È um e-commerce de roupas desenvolvido no ambiente .net. Ele oferece u
 
 ## Como Iniciar
 
-1. **PrÈ-requisitos:**
+1. **Pr√©-requisitos:**
    - Certifique-se de ter o sql server instalado e o visual studio.
 
-2. **ConfiguraÁ„o do Ambiente:**
+2. **Configura√ß√£o do Ambiente:**
    ```bash
-   # Clone o repositÛrio
-   git clone https://github.com/seuusuario/seuprojeto.git
+   # Clone o reposit√≥rio
+   git clone https://github.com/amagnom/Ecommerce
 
-   # Acesse o diretÛrio do projeto
+   # Acesse o diret√≥rio do projeto
    execute o arquivo ASP_Bootstrap_Databse_Query.sql no seu banco de dados para popula-lo
 
    # Inicie o projeto
