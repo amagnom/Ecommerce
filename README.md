@@ -7,7 +7,7 @@ O projeto é um e-commerce de roupas desenvolvido no ambiente .net. Ele oferece 
 
 ## Capturas de Tela
 
-![Tela Inicial]([screenshots/tela_inicial.png](https://github.com/amagnom/Ecommerce/blob/main/screenshots/tela_inicial.PNG))
+![Tela Inicial](https://github.com/amagnom/Ecommerce/blob/main/%5Bscreenshots/tela_inicial.png%5D(https:/github.com/amagnom/Ecommerce/blob/main/screenshots/tela_inicial.PNG))
 
 ![Produtos](screenshots/produtos.png)
 
