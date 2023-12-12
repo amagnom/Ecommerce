@@ -186,3 +186,8 @@ input[type=radio] {
     color: #fff;
     width: 100%;
 }
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
